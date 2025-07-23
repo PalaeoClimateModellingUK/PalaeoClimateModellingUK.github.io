@@ -1,5 +1,5 @@
 title: Palaeoclimate modelling in the UK
 description: This is a community resources for the palaeoclimate modellers working in the UK
-show_downloads: true
-google_analytics:
+show_downloads: false
+show_search: true
 theme: jekyll-theme-merlot
