@@ -1,4 +1,4 @@
-# National Palaeoclimate Modelling Workshop, 2025
+# National Palaeoclimate Modelling Symposium, 2025
 
 > Come meet colleagues and talk about modelling the climate of the past
 >
