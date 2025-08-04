@@ -1,4 +1,4 @@
-# National Palaeoclimate Modelling Workshop, 2025
+# National Palaeoclimate Modelling Symposium, 2025
 
 > Come meet colleagues and talk about modelling the climate of the past
 >
@@ -9,7 +9,7 @@ The schedule is only provisional and can be modified if their are other sessions
 
 | Time         | Activity                        | Leader(s)                |
 |--------------|---------------------------------|--------------------------|
-| ** Mon 15 Sept**    |                                 |                          |
+| **Mon 15 Sept**    |                                 |                          |
 | 12:00-13:00  | Registration and welcome        | Matt Pollock             |
 | 13:00-14:00  | Welcome and updates from each institution | Chris and others |
 | 14:00-15:30  | HadCM3: ECR presentations       | TBA             |
@@ -18,7 +18,7 @@ The schedule is only provisional and can be modified if their are other sessions
 | 17:00-18:00  | Networking               |                          |
 | **Tues 16 Sept**    |                                 |                          |
 | 10:00-10:30  | HadGEM thoughts and updates      | TBA    |
-| 10:30-11:00  | Update about UK CMIP7            | Someone from Met Office    |
+| 10:30-11:00  | Update about UK CMIP7            | Someone from Met Office?    |
 | 11:00-11:30  | Coffee Break                     |     |
 | 11:30-13:00  | HadGEM3: ECR presentations    | Charlie             |
 | 13:00-14:00  | Lunch                           |                          |
