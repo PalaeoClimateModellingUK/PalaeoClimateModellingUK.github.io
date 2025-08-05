@@ -4,6 +4,9 @@
 >
 > 15-16 Sept 2025 at University College London
 
+## Registration and Attendees
+Please register by completing [this form](https://forms.office.com/e/gyuiY6uBk2).
+
 ## Schedule
 The schedule is only provisional and can be modified if their are other sessions that people want to substitute in
 
@@ -28,6 +31,12 @@ The schedule is only provisional and can be modified if their are other sessions
 
 ## Logistics
 
-The meeting will be held at the [Dept of Geography](https://www.ucl.ac.uk/geography) at University College London. This is in the [Northwest Wing](https://maps.ucl.ac.uk/north-west-wing-building), which is immediately on your left as you enter UCL's main gates on Gower St. The nearest tube station is Euston Sq, but Warren St and Euston itself are also short walks. The meeting is 8 walk minutes from Euston and 15 minutes from Kings Cross & St Pancras. 
+The meeting will be held at the [Dept of Geography](https://www.ucl.ac.uk/geography) at University College London. This is in the [Northwest Wing](https://maps.ucl.ac.uk/north-west-wing-building), which is immediately on your left as you enter UCL's main gates on Gower St. 
+
+The nearest tube station is Euston Sq, but Warren St and Euston itself are also short walks. The meeting is 8 walk minutes from Euston and 15 minutes from Kings Cross & St Pancras. 
 
 The local organisers are [Chris Brierley](mailto:c.brierley@ucl.ac.uk) and [Matt Pollock](mailto:matthew.pollock.23@ucl.ac.uk)
+
+We rarely stay in Hotels near UCL. You could try [The Wesley](https://www.thewesley.co.uk/) as an eco-conscious choice, or one of the [Imperial Hotels](https://www.imperialhotels.co.uk/) opposite UCL Geography's other building. 
+
+
