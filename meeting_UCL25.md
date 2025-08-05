@@ -15,16 +15,15 @@ The schedule is only provisional and can be modified if their are other sessions
 | **Mon 15 Sept**    |                                 |                          |
 | 12:00-13:00  | Registration and welcome        | Matt Pollock             |
 | 13:00-14:00  | Welcome and updates from each institution | Chris and others |
-| 14:00-15:30  | HadCM3: ECR presentations       | TBA             |
+| 14:00-15:30  | HadCM3: ECR presentations       | Julia Tindall             |
 | 15:30-16:00  | Coffee Break                    |                          |
 | 16:00-17:00  | HadCM3 infrastructure & Plans   | TBA                      |
 | 17:00-18:00  | Networking               |                          |
 | **Tues 16 Sept**    |                                 |                          |
-| 10:00-10:30  | HadGEM thoughts and updates      | TBA    |
-| 10:30-11:00  | Update about UK CMIP7            | Someone from Met Office?    |
-| 11:00-11:30  | Coffee Break                     |     |
-| 11:30-13:00  | HadGEM3: ECR presentations    | Charlie             |
-| 13:00-14:00  | Lunch                           |                          |
+| 10:00-11:00  | HadGEM thoughts and updates      | TBA    |
+| 11:00-12:30  | HadGEM3: ECR presentations    | Charlie             |
+| 12:30-13:30  | Lunch                           |                          |
+| 13:30-14:00  | Update about UK CMIP7            | Colin Jones or Jane Mulcahy (Met Office)    |
 | 14:00-15:00  | Breakout: Future Directions     | All                      |
 | 15:00-16:00  | Closing Remarks & Actions       | Chris  |
 
