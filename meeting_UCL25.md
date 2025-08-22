@@ -35,7 +35,7 @@ The ECR presentations are around 20 minutes and should try to give a flavour of 
 | #1 | Abigail Buchan | Leeds | Causes of Jet Stream Variability in the Late Pliocene Using HadCM3 |
 | #1 | Yixuan Xie | Bristol | Paleogeography Shapes the Phanerozoic Hydroclimate and Monsoon Evolution |
 | #1 | Linlin Chen  | Bristol | Machine Learning-Based Lithological Distribution Modeling for Evaluating Paleoclimate GCMs |
-| #1 | Irene Malmierca Vallet | BAS | _D-O Cycles_ | 
+| #1 | Irene Malmierca Vallet | BAS | Using Ice Cores and Gaussian Process Emulation to Recover Changes in the Greenland Ice Sheet During the Holocene | 
 | #1 | Yvan Rome | Leeds | _AMOC millennial-scale variability in HadCM3_ |
 | #2 | Zikun Ren | Bristol | _Monsoons in CESM_ | 
 | #2 | Dan Skinner | Bristol (was UEA) | An SST-driven shift in South Pacific hydroclimate over the past millennium |
