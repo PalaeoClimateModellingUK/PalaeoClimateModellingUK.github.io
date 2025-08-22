@@ -3,6 +3,8 @@
 > Come meet colleagues and talk about modelling the climate of the past
 >
 > 15-16 Sept 2025 at University College London
+## Registration
+Please register by completing [this form](https://forms.office.com/e/gyuiY6uBk2).
 
 ## Schedule
 The schedule is only provisional and can be modified if their are other sessions that people want to substitute in
@@ -12,39 +14,36 @@ The schedule is only provisional and can be modified if their are other sessions
 | **Mon 15 Sept**    |                                 |                          |
 | 12:00-13:00  | Registration and welcome        | Matt Pollock             |
 | 13:00-13:30  | Welcome and updates from each institution | Chris and others |
-| 13:30-15:30  | HadCM3: ECR presentations       | Julia Tindall             |
+| 13:30-15:30  | ECR presentations: Session #1 - HadCM3       | Julia Tindall             |
 | 15:30-16:00  | Coffee Break                    |                          |
-| 16:00-17:00  | HadCM3, infrastructure & Plans   | Dan & others                    |
+| 16:00-17:00  | HadCM3, infrastructure & Plans   | Dan Lunt & others                    |
 | 17:00-18:00  | Networking               |                          |
 | **Tues 16 Sept**    |                                 |                          |
-| 10:00-11:00  | ECR Presentation (other models)    | Chris |
-| 11:30-12:30  | HadGEM3: ECR presentations    | Charlie             |
+| 10:00-11:00  | ECR Presentations: Session #2 - other models    | Chris |
+| 11:30-12:30  | ECR presentations: Session #3 - HadGEM3/UKESM    | Charlie             |
 | 12:30-13:30  | Lunch                           |                          |
-| 13:30-14:00  | Update about UK CMIP7            | Colin Jones or Jane Mulcahy (Met Office)    |
-| 14:00-14:30  | UKESM thoughts and updates    | Helen & Brook |
-| 14:30-15:30  | Breakout: Future Directions     | All                      |
+| 13:30-14:00  | Update about UK CMIP7            | Colin Jones or Jane Mulcahy (Met Office)  |
+| 14:00-14:30  | UKESM updates    | Helen & Brook |
+| 14:30-15:30  | Breakout: Future Directions     | All  |
 | 15:30-16:00  | Closing Remarks & Actions       | Chris  |
 
-## Registration and Attendees
-Please register by completing [this form](https://forms.office.com/e/gyuiY6uBk2).
+## ECR Presentations
+The ECR presentations are around 20 minutes and should try to give a flavour of the research that you've been doing (or intend to do). Titles in _italics_ are provisional.
 
-| Name        | Instituion                        | Talk                | Time |
+| Session | Name        | Instituion                        | Title |
 |--------------|---------------------------------|--------------------------|----|
-| Abigail Buchan | ?                        | Causes of Jet Stream Variability in the Late Pliocene Using HadCM3                | Mon, pm |
-| Yixuan Xie        | Instituion                        | Paleogeography Shapes the Phanerozoic Hydroclimate and Monsoon Evolution                | Mon, pm |
-| Irene Malmierca Vallet        | BAS | D-O Cycles | Mon, pm |
-| Linlin Chen  | ? | Machine Learning-Based Lithological Distribution Modeling for Evaluating Paleoclimate GCMs | Mon, pm |
-| Yvan Rome        | Leeds                        | ?                | Mon, pm |
-|--------------|---------------------------------|--------------------------|----|
-| Zikun Ren | Bristol | Monsoons in CESM? | Tues, am | 
-| Dan Skinner | Bristol (was UEA) | An SST-driven shift in South Pacific hydroclimate over the past millennium | Tues am |
-| Matt Pollock | UCL | Sea Ice Energy Budget in lig127k | Tues am |
-|--------------|---------------------------------|--------------------------|----|
-| Harry Grosvenor | Queen Mary (Online)     | Indian Ocean Pliocene   | Tues, am |
-| Marie Sicard | Leeds | ? | Tues, am | 
-| Alfred Wilson | Soton | The Green Sahara Problem in UKESM: Reframing the Question | Tues am | 
+| #1 | Abigail Buchan | Leeds | Causes of Jet Stream Variability in the Late Pliocene Using HadCM3 |
+| #1 | Yixuan Xie | Bristol | Paleogeography Shapes the Phanerozoic Hydroclimate and Monsoon Evolution |
+| #1 | Linlin Chen  | Bristol | Machine Learning-Based Lithological Distribution Modeling for Evaluating Paleoclimate GCMs |
+| #1 | Irene Malmierca Vallet | BAS | _D-O Cycles_ | 
+| #1 | Yvan Rome | Leeds | _AMOC millennial-scale variability in HadCM3_ |
+| #2 | Zikun Ren | Bristol | _Monsoons in CESM_ | 
+| #2 | Dan Skinner | Bristol (was UEA) | An SST-driven shift in South Pacific hydroclimate over the past millennium |
+| #2 | Matt Pollock | UCL | Sea Ice Energy Budget in lig127k |
+| #3 | Harry Grosvenor | Queen Mary (Online) | PlioMIP2 Ocean Heat Content   |
+| #3 | Alfred Wilson | Soton | The Green Sahara Problem in UKESM: Reframing the Question |
+| #3 | Marie Sicard | Leeds | Exploring the Antarctic Ice Sheet Response to Last Interglacial Forcing with the UKESM Coupled Climate–Ice Sheet Model | 
 
-| Colin Jones or Jane Mulcahy | Met Office (online) | Update about UK CMIP7  | 13:30-14:00 |    
 ## Logistics
 
 The meeting will be held at the [Dept of Geography](https://www.ucl.ac.uk/geography) at University College London. This is in the [Northwest Wing](https://maps.ucl.ac.uk/north-west-wing-building), which is immediately on your left as you enter UCL's main gates on Gower St. 
