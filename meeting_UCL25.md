@@ -13,7 +13,7 @@ The schedule is only provisional and can be modified if their are other sessions
 |--------------|---------------------------------|--------------------------|
 | **Mon 15 Sept**    |                                 |                          |
 | 12:00-13:00  | Registration and welcome        | Matt Pollock             |
-| 13:00-13:30  | Welcome and updates from each institution | Chris and others |
+| 13:00-13:30  | Updates from each institution | All |
 | 13:30-15:30  | ECR presentations: Session #1 - HadCM3       | Julia Tindall             |
 | 15:30-16:00  | Coffee Break                    |                          |
 | 16:00-17:00  | HadCM3, infrastructure & Plans   | Dan Lunt & others                    |
