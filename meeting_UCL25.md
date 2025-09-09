@@ -37,7 +37,7 @@ The ECR presentations are around 20 minutes and should try to give a flavour of 
 | #1 | Yixuan Xie | Bristol | Paleogeography Shapes the Phanerozoic Hydroclimate and Monsoon Evolution |
 | #1 | Linlin Chen  | Bristol | Machine Learning-Based Lithological Distribution Modeling for Evaluating Paleoclimate GCMs |
 | #1 | Yvan Rome | Leeds | AMOC millennial-scale variability in HadCM3 triggered by deglacial meltwater discharge |
-| #2 | Zikun Ren | Bristol | _Monsoons in CESM_ | 
+| #2 | Zikun Ren | Bristol | The Width of the ITCZ in Extremely Hot Climates: From the Eocene to the high-emission Future | 
 | #2 | Dan Skinner | Bristol (was UEA) | An SST-driven shift in South Pacific hydroclimate over the past millennium |
 | #2 | Matt Pollock | UCL | Sea Ice Energy Budget in lig127k |
 | #3 | Harry Grosvenor | Queen Mary (Online) | PlioMIP2 Ocean Heat Content   |
