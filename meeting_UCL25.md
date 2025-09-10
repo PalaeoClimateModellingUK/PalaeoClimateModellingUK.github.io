@@ -41,7 +41,7 @@ The ECR presentations are around 20 minutes and should try to give a flavour of 
 | #2 | Dan Skinner | Bristol (was UEA) | An SST-driven shift in South Pacific hydroclimate over the past millennium |
 | #2 | Matt Pollock | UCL | Sea Ice Energy Budget in lig127k |
 | #3 | Harry Grosvenor | Queen Mary (Online) | PlioMIP2 Ocean Heat Content   |
-| #3 | Alfred Wilson | Soton | The Green Sahara Problem in UKESM: Reframing the Question |
+| #3 | Alfred Wilson | Southampton | The Green Sahara Problem in UKESM: Reframing the Question |
 | #3 | Marie Sicard | Leeds | Exploring the Antarctic Ice Sheet Response to Last Interglacial Forcing with the UKESM Coupled Climate–Ice Sheet Model | 
 
 ## Logistics
@@ -54,4 +54,15 @@ The local organisers are [Chris Brierley](mailto:c.brierley@ucl.ac.uk) and [Matt
 
 We rarely stay in Hotels near UCL. You could try [The Wesley](https://www.thewesley.co.uk/) as an eco-conscious choice, or one of the [Imperial Hotels](https://www.imperialhotels.co.uk/) opposite UCL Geography's other building. 
 
+## Attendees
+The people who attended the meeting are: 
 
+| Instituion  | Attendees |
+|---|----|
+| British Antarctic Survey | Xu Zhang, Irene Malmierca Vallet, Xu Zhang | 
+| University of Birmingham | Peter Hopcroft | 
+| University of Bristol | Dan Lunt, Dan Skinner, Linlin Chen, Yixuan Xie, Zikun Ren, Charlie Williams |
+| University of East Anglia | Manoj Joshi |
+| University of Leeds | Julia Tindall, Ruza Ivanovic, Dan Hill, Marie Sicard, Brooke Snoll, Abigail Buchan, Helen Burns | 
+| University of Southampton | Alfred Wilson |
+| University College London | Chris Brierley, Charlie Williams, Matt Pollock, Rachel Timbs | 
