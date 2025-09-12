@@ -59,7 +59,7 @@ The people who attended the meeting are:
 
 | Instituion  | Attendees |
 |---|----|
-| British Antarctic Survey | Xu Zhang, Irene Malmierca Vallet, Rachel Diamond | 
+| British Antarctic Survey | Xu Zhang, Irene Malmierca Vallet, Alison McLaren, Rachel Diamond | 
 | University of Birmingham | Peter Hopcroft | 
 | University of Bristol | Dan Lunt, Dan Skinner, Linlin Chen, Yixuan Xie, Zikun Ren, Charlie Williams |
 | University of East Anglia | Manoj Joshi |
