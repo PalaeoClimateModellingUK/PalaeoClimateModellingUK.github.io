@@ -7,7 +7,7 @@
 Please register by completing [this form](https://forms.office.com/e/gyuiY6uBk2).
 
 ## Schedule
-The schedule is only provisional and can be modified if their are other sessions that people want to substitute in
+The schedule can be modified if there are other sessions that people want to substitute in
 
 | Time         | Activity                        | Leader(s)                |
 |--------------|---------------------------------|--------------------------|
@@ -28,7 +28,7 @@ The schedule is only provisional and can be modified if their are other sessions
 | 15:30-16:00  | Closing Remarks & Actions       | Chris  |
 
 ## ECR Presentations
-The ECR presentations are around 20 minutes and should try to give a flavour of the research that you've been doing (or intend to do). Titles in _italics_ are provisional.
+The ECR presentations are around 20 minutes and should try to give a flavour of the research that you've been doing (or intend to do).
 
 | Session | Name        | Instituion                        | Title |
 |--------------|---------------------------------|--------------------------|----|
