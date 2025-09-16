@@ -34,7 +34,7 @@ The ECR presentations are around 20 minutes and should try to give a flavour of 
 |--------------|---------------------------------|--------------------------|----|
 | #1 | Irene Malmierca Vallet | BAS | Using Ice Cores and Gaussian Process Emulation to Recover Changes in the Greenland Ice Sheet During the Holocene | 
 | #1 | Abigail Buchan | Leeds | Causes of Jet Stream Variability in the Late Pliocene Using HadCM3 |
-| #1 | Yixuan Xie | Bristol | Paleogeography Shapes the Phanerozoic Hydroclimate and Monsoon Evolution |
+| #1 | Yixuan Xie | Bristol | Unveiling the evolution of dust and its impact on ocean across the Earth’s deep time history |
 | #1 | Linlin Chen  | Bristol | Machine Learning-Based Lithological Distribution Modeling for Evaluating Paleoclimate GCMs |
 | #1 | Yvan Rome | Leeds | AMOC millennial-scale variability in HadCM3 triggered by deglacial meltwater discharge |
 | #2 | Zikun Ren | Bristol | The Width of the ITCZ in Extremely Hot Climates: From the Eocene to the high-emission Future | 
