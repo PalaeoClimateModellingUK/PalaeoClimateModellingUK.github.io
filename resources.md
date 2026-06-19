@@ -16,9 +16,10 @@ Please see below for some 'Idiot's Guides to…", all about running HadGEM3-GC31
 [Idiot's Guide, Part 3 - Changing ancillaries and other science modifications.pdf](https://github.com/user-attachments/files/29131605/Idiot.s.Guide.Part.3.-.Changing.ancillaries.and.other.science.modifications.pdf)
 (last updated 1030 BST on 19/6/26)
 
-* Part 4: This gives instructions on how to actually run the suite when everything is ready, monitor it, check output, and fix potential problems. (last updated 1430 BST on 16/6/26)
+* Part 4: This gives instructions on how to actually run the suite when everything is ready, monitor it, check output, and fix potential problems.
+  
+[Idiot's Guide, Part 4 - Running, monitoring and fixing problems.pdf](https://github.com/user-attachments/files/29003262/Idiot.s.Guide.Part.4.-.Running.monitoring.and.fixing.problems.pdf) (last updated 1430 BST on 16/6/26)
 
-[Idiot's Guide, Part 4 - Running, monitoring and fixing problems.pdf](https://github.com/user-attachments/files/29003262/Idiot.s.Guide.Part.4.-.Running.monitoring.and.fixing.problems.pdf)
 
 ---
 
