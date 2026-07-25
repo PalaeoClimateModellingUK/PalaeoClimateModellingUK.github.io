@@ -8,8 +8,8 @@ Please see below for some 'Idiot's Guides to…", all about running HadGEM3-GC31
 
 * Part 2: This gives detailed instructions on creating a new land sea mask.  This is an alternative method, which I am perhaps pompously calling the Williams Process, to the official Met Office method of generating coupling weights.
 
-[Idiot's Guide, Part 2 - Setting up new LSM.pdf](https://github.com/user-attachments/files/30307096/Idiot.s.Guide.Part.2.-.Setting.up.new.LSM.pdf)
- (last updated 1330 BST on 23/7/26)
+[Idiot's Guide, Part 2 - Setting up new LSM.pdf](https://github.com/user-attachments/files/30373064/Idiot.s.Guide.Part.2.-.Setting.up.new.LSM.pdf)
+ (last updated 1400 BST on 25/7/26)
 
 * Part 3: This gives detailed instructions on how to modify the resulting ancillaries, in order to fill them with data appropriate for a given time period, using the mid-Pliocene as an example.
 
