@@ -16,7 +16,7 @@ Please see below for some 'Idiot's Guides to…", all about running HadGEM3-GC31
 
 * Part 4: This gives instructions on how to actually run the suite when everything is ready, monitor it, check output, and fix potential problems.
 
-[Idiot's Guide, Part 4 - Running, monitoring and fixing problems.pdf](https://github.com/user-attachments/files/31834865/Idiot.s.Guide.Part.4.-.Running.monitoring.and.fixing.problems.pdf) (last updated 1300 BST on 4/9/26)
+[Idiot's Guide, Part 4 - Running, monitoring and fixing problems.pdf](https://github.com/user-attachments/files/33057502/Idiot.s.Guide.Part.4.-.Running.monitoring.and.fixing.problems.pdf) (last updated 1300 BST on 5/10/26)
 
 
 ---
