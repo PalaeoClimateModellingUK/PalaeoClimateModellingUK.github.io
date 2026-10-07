@@ -1,3 +1,4 @@
+[Idiot's Guide, Part 3 - Changing ancillaries and other science modifications.pdf](https://github.com/user-attachments/files/33163834/Idiot.s.Guide.Part.3.-.Changing.ancillaries.and.other.science.modifications.pdf)
 # Idiot's Guides
 
 Please see below for some 'Idiot's Guides to…", all about running HadGEM3-GC31-LL on ARCHER2. 
@@ -12,7 +13,8 @@ Please see below for some 'Idiot's Guides to…", all about running HadGEM3-GC31
 
 * Part 3: This gives detailed instructions on how to modify the resulting ancillaries, in order to fill them with data appropriate for a given time period, using the mid-Pliocene as an example.
 
-[Idiot's Guide, Part 3 - Changing ancillaries and other science modifications.pdf](https://github.com/user-attachments/files/31834811/Idiot.s.Guide.Part.3.-.Changing.ancillaries.and.other.science.modifications.pdf) (last updated 1300 BST on 4/9/26)
+[Idiot's Guide, Part 3 - Changing ancillaries and other science modifications.pdf](https://github.com/user-attachments/files/33163859/Idiot.s.Guide.Part.3.-.Changing.ancillaries.and.other.science.modifications.pdf)
+ (last updated 1600 BST on 7/10/26)
 
 * Part 4: This gives instructions on how to actually run the suite when everything is ready, monitor it, check output, and fix potential problems.
 
